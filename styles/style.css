@@ -41,6 +41,10 @@
   background-color: white;
 }
 
+#slaid4:checked~.kadoves label[for="slaid4"] {
+  background-color: white;
+}
+
 .adaptivny-slayder-lasekun {
   overflow: hidden;
    
@@ -67,4 +71,8 @@
 
 #slaid3:checked~.adaptivny-slayder-lasekun .abusteku-deagulus {
   transform: translateX(-200%);
+}
+
+#slaid4:checked~.adaptivny-slayder-lasekun .abusteku-deagulus {
+  transform: translateX(-300%);
 }
