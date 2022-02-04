@@ -6,4 +6,4 @@ There are 4 branches after cloning repo and making several development steps. Th
 
 # What DevOps is
 
-**DevOps is the methodology which provides effective interaction and collaboration among developers, QA engeneers, system and database administrators and other team's members. It automates processes of integration, testing, monitoring and maintenance of software development, delivery and deploying. DevOps realizes practices of continuous integration (CI) and and either continuous delivery or continuous deployment (CD).** 
+**DevOps is the methodology which provides effective interaction and collaboration among developers, QA engeneers, system and database administrators and other team's members. It automates processes of integration, testing, monitoring and maintenance of software development, delivery and deploying. DevOps realizes practices of continuous integration (CI) and either continuous delivery or continuous deployment (CD).** 
